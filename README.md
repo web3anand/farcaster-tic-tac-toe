@@ -6,7 +6,7 @@ A modern, automatching multiplayer Tic-Tac-Toe game built as a Farcaster mini ap
 
 ### One-Click Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/farcaster-tic-tac-toe)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/farcaster-tic-tac-toe&env=NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID,NEXT_PUBLIC_SOCKET_URL,NEXT_PUBLIC_ROOT_URL&envDescription=Environment%20variables%20needed%20for%20the%20app&envLink=https://github.com/your-username/farcaster-tic-tac-toe#environment-variables)
 
 ### Local Development
 

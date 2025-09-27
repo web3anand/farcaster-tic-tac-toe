@@ -7,10 +7,5 @@
     "app/api/**/*.ts": {
       "runtime": "nodejs18.x"
     }
-  },
-  "env": {
-    "NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID": "@wallet-connect-project-id",
-    "NEXT_PUBLIC_SOCKET_URL": "@socket-url",
-    "NEXT_PUBLIC_ROOT_URL": "@root-url"
   }
 }
