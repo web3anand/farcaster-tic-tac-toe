@@ -1,4 +1,4 @@
-const ROOT_URL = process.env.NEXT_PUBLIC_ROOT_URL || 'https://your-app.vercel.app';
+const ROOT_URL = process.env.NEXT_PUBLIC_ROOT_URL || 'https://xo-chi.vercel.app';
 
 export const minikitConfig = {
   accountAssociation: {
