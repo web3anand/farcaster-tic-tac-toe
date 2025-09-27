@@ -1,0 +1,22 @@
+{
+  "version": "1",
+  "name": "TicTacToe Battle",
+  "subtitle": "Automatching Tic-Tac-Toe with Base",
+  "description": "Play Tic-Tac-Toe against other players with automatic matching, leaderboards, and Base blockchain integration",
+  "screenshotUrls": [
+    "https://your-app.vercel.app/screenshot-portrait.png",
+    "https://your-app.vercel.app/screenshot-landscape.png"
+  ],
+  "iconUrl": "https://your-app.vercel.app/icon-512.png",
+  "splashImageUrl": "https://your-app.vercel.app/splash-hero.png",
+  "splashBackgroundColor": "#0052FF",
+  "homeUrl": "https://your-app.vercel.app",
+  "webhookUrl": "https://your-app.vercel.app/api/webhook",
+  "primaryCategory": "games",
+  "tags": ["tic-tac-toe", "multiplayer", "automatching", "base", "games", "leaderboard"],
+  "heroImageUrl": "https://your-app.vercel.app/hero-image.png",
+  "tagline": "Battle it out in the ultimate Tic-Tac-Toe experience",
+  "ogTitle": "TicTacToe Battle - Automatching Tic-Tac-Toe on Base",
+  "ogDescription": "Join the ultimate Tic-Tac-Toe battle with automatic matching, leaderboards, and Base blockchain rewards",
+  "ogImageUrl": "https://your-app.vercel.app/og-image.png"
+}

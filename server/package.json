@@ -1,0 +1,17 @@
+{
+  "name": "tic-tac-toe-game-server",
+  "version": "1.0.0",
+  "description": "Game server for TicTacToe Battle",
+  "main": "game-server.js",
+  "scripts": {
+    "start": "node game-server.js",
+    "dev": "nodemon game-server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.4",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
